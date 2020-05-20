@@ -2,12 +2,12 @@
 <testng-results ignored="21" total="22" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-05-20T14:45:03 IST" name="Suite" finished-at="2020-05-20T14:45:50 IST" duration-ms="47434">
+  <suite started-at="2020-05-20T18:58:33 IST" name="Suite" finished-at="2020-05-20T18:59:06 IST" duration-ms="32420">
     <groups>
     </groups>
-    <test started-at="2020-05-20T14:45:03 IST" name="Test1" finished-at="2020-05-20T14:45:50 IST" duration-ms="47434">
+    <test started-at="2020-05-20T18:58:33 IST" name="Test1" finished-at="2020-05-20T18:59:06 IST" duration-ms="32420">
       <class name="demoMavenProject2.NavigationBar">
-        <test-method signature="Test2_unOrderedListnav()[pri:0, instance:demoMavenProject2.NavigationBar@647fd8ce]" started-at="2020-05-20T14:45:03 IST" name="Test2_unOrderedListnav" finished-at="2020-05-20T14:45:50 IST" duration-ms="47305" status="PASS">
+        <test-method signature="Test2_unOrderedListnav()[pri:0, instance:demoMavenProject2.NavigationBar@647fd8ce]" started-at="2020-05-20T18:58:33 IST" name="Test2_unOrderedListnav" finished-at="2020-05-20T18:59:06 IST" duration-ms="32272" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test2_unOrderedListnav -->
